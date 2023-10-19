@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\part2_interfaces\part2_interfaces\bin\Debug\net7.0\part2_interfaces.exe
+C:\Users\user\source\repos\part2_interfaces\part2_interfaces\bin\Debug\net7.0\part2_interfaces.deps.json
+C:\Users\user\source\repos\part2_interfaces\part2_interfaces\bin\Debug\net7.0\part2_interfaces.runtimeconfig.json
+C:\Users\user\source\repos\part2_interfaces\part2_interfaces\bin\Debug\net7.0\part2_interfaces.dll
+C:\Users\user\source\repos\part2_interfaces\part2_interfaces\bin\Debug\net7.0\part2_interfaces.pdb
+C:\Users\user\source\repos\part2_interfaces\part2_interfaces\obj\Debug\net7.0\part2_interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\part2_interfaces\part2_interfaces\obj\Debug\net7.0\part2_interfaces.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\part2_interfaces\part2_interfaces\obj\Debug\net7.0\part2_interfaces.AssemblyInfo.cs
+C:\Users\user\source\repos\part2_interfaces\part2_interfaces\obj\Debug\net7.0\part2_interfaces.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\part2_interfaces\part2_interfaces\obj\Debug\net7.0\part2_interfaces.dll
+C:\Users\user\source\repos\part2_interfaces\part2_interfaces\obj\Debug\net7.0\refint\part2_interfaces.dll
+C:\Users\user\source\repos\part2_interfaces\part2_interfaces\obj\Debug\net7.0\part2_interfaces.pdb
+C:\Users\user\source\repos\part2_interfaces\part2_interfaces\obj\Debug\net7.0\part2_interfaces.genruntimeconfig.cache
+C:\Users\user\source\repos\part2_interfaces\part2_interfaces\obj\Debug\net7.0\ref\part2_interfaces.dll
